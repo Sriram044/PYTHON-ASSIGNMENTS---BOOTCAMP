@@ -38,7 +38,7 @@ file1.close()
 
 
 file1=open("30 days 30 hours operations.txt", "a")
-file1.write("Myself K. Kamalakannan\n")
+file1.write("Myself Sriram D\n")
 file1.close()
 
 
