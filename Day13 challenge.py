@@ -53,7 +53,7 @@ def numAtEnd(string):
         return False
 print(numAtEnd("kamal@123"))
 print(numAtEnd("sriram"))
-print(numAtEnd("shiva@654"))
+print(numAtEnd("ajay@654"))
 
 
 # ## Write a python program to search the numbers (0-9) of length between 1 to 3 in a given string
@@ -78,8 +78,8 @@ def onlyUpper(text):
         return 'matched !'
     else:
         return 'unmatched !'
-print(onlyUpper("KAMALAKANNAN"))
-print(onlyUpper("kamalakannan"))
+print(onlyUpper("SRIRAM"))
+print(onlyUpper("sriram"))
 
 
 # In[ ]:
