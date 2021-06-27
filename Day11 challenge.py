@@ -17,7 +17,7 @@ external.ext_func(external.list1)
 # In[2]:
 
 
-external.list1[0]='Kamalakannan'
+external.list1[0]='sriram'
 external.ext_func(external.list1)
 
 
